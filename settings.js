@@ -44,10 +44,10 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 
 SESSION_ID: process.env.SESSION_ID === undefined ? 'Manu-MD&ESE3FTgZ#xmahJDzhvP7ZU4UNloMc5b6CeK2xxGet60VFfWB5bU0' : process.env.SESSION_ID,
-PREFIX: process.env.PREFIX || 'e' ,
+PREFIX: process.env.PREFIX || '*' ,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
 SUDO: process.env.SUDO === undefined ? '50955544052' : process.env.SUDO,
-AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ?"false" : process.env.AUTO_READ_STATUS,
+AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ?"true" : process.env.AUTO_READ_STATUS,
 MODE: process.env.MODE === undefined ?"private" : process.env.MODE,
 AUTO_VOICE: process.env.AUTO_VOICE === undefined ? "false" : process.env.AUTO_VOICE,
 ANTI_BAD: process.env.ANTI_BAD === undefined ? "false" : process.env.ANTI_BAD,
