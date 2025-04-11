@@ -20,7 +20,7 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : WANSHINO 
+//  * @project_name : WANSHINO  
 //  * @author : Manul Official
 //  * @youtube : https://www.youtube.com/@ManulOfficialTech
 //  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
